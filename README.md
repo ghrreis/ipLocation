@@ -7,6 +7,6 @@ Programa para traçar o caminho realizado por datagramas IPs.
 * pip install folium
 
 ## Execução do programa
-python app.py "número IP ou endereço do site"
+python app.py "número IP ou URL"
 
 Após a execução do programa será criado o arquivo "index.html". Basta abri-lo por um navegador para visualizar o mapa do caminho criado.
