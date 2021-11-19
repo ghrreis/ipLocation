@@ -2,11 +2,9 @@
 Programa para traçar o caminho realizado por datagramas IPs.
 
 ## Instalação das bibliotecas
-pip install icmplib 
-
-pip install ipaddr
-
-pip install folium
+* pip install icmplib 
+* pip install ipaddr
+* pip install folium
 
 ## Execução do programa
 python app.py "número IP ou endereço do site"
